@@ -1,0 +1,3 @@
+[console_scripts]
+zxing = zxing.__main__:main
+

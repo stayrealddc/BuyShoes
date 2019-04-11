@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: zxing
+Version: 0.9.3
+Summary: wrapper for zebra crossing (zxing) barcode library
+Home-page: https://github.com/dlenski/python-zxing
+Author: Daniel Lenski
+Author-email: dlenski@gmail.com
+License: LGPL v3 or later
+Description: More information: https://github.com/dlenski/python-zxing
+Platform: UNKNOWN
