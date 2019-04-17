@@ -6,5 +6,7 @@
 
 使用前你的电脑（windows）要准备什么？
 1.安装python的IDE，推荐pycharm，免费版就好，下载地址：https://www.jetbrains.com/pycharm/download/#section=windows
+
 2.你的电脑有谷歌浏览器，安装谷歌浏览器对应版本的webdriver，确定版本，下载地址：https://blog.csdn.net/u013783095/article/details/79851194
+
 3.python建议安装最新版本---当前最新版本3.73，下载地址：https://www.python.org/downloads/
