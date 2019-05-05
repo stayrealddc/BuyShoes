@@ -32,6 +32,7 @@ def doSth(person):
     # print(name,number,idcard,creditcard)
     options = Options()
     options.add_argument('--headless')
+    chrome_options.add_argument('window-size=1920x1080')
     sel = selenium.webdriver.Chrome(options=options)
     sel.get(barcodeData)
 
